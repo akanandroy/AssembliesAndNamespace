@@ -1,0 +1,15 @@
+F:\Workspace\CSharp_Programs\AssembliesAndNamespace\bin\Debug\net7.0\AssembliesAndNamespace.exe
+F:\Workspace\CSharp_Programs\AssembliesAndNamespace\bin\Debug\net7.0\AssembliesAndNamespace.deps.json
+F:\Workspace\CSharp_Programs\AssembliesAndNamespace\bin\Debug\net7.0\AssembliesAndNamespace.runtimeconfig.json
+F:\Workspace\CSharp_Programs\AssembliesAndNamespace\bin\Debug\net7.0\AssembliesAndNamespace.dll
+F:\Workspace\CSharp_Programs\AssembliesAndNamespace\bin\Debug\net7.0\AssembliesAndNamespace.pdb
+F:\Workspace\CSharp_Programs\AssembliesAndNamespace\obj\Debug\net7.0\AssembliesAndNamespace.csproj.AssemblyReference.cache
+F:\Workspace\CSharp_Programs\AssembliesAndNamespace\obj\Debug\net7.0\AssembliesAndNamespace.GeneratedMSBuildEditorConfig.editorconfig
+F:\Workspace\CSharp_Programs\AssembliesAndNamespace\obj\Debug\net7.0\AssembliesAndNamespace.AssemblyInfoInputs.cache
+F:\Workspace\CSharp_Programs\AssembliesAndNamespace\obj\Debug\net7.0\AssembliesAndNamespace.AssemblyInfo.cs
+F:\Workspace\CSharp_Programs\AssembliesAndNamespace\obj\Debug\net7.0\AssembliesAndNamespace.csproj.CoreCompileInputs.cache
+F:\Workspace\CSharp_Programs\AssembliesAndNamespace\obj\Debug\net7.0\AssembliesAndNamespace.dll
+F:\Workspace\CSharp_Programs\AssembliesAndNamespace\obj\Debug\net7.0\refint\AssembliesAndNamespace.dll
+F:\Workspace\CSharp_Programs\AssembliesAndNamespace\obj\Debug\net7.0\AssembliesAndNamespace.pdb
+F:\Workspace\CSharp_Programs\AssembliesAndNamespace\obj\Debug\net7.0\AssembliesAndNamespace.genruntimeconfig.cache
+F:\Workspace\CSharp_Programs\AssembliesAndNamespace\obj\Debug\net7.0\ref\AssembliesAndNamespace.dll
